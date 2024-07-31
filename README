@@ -2,4 +2,4 @@ This project is a deep learning project for distinguishing SGC (sebaceous gland 
 
 The CycleGAN is from the repository: https://github.com/aitorzip/PyTorch-CycleGAN.
 
-The other models are from TorchVision.
+The other models are from TorchVision and PyTorch.
