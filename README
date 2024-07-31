@@ -1,1 +1,5 @@
-This project is a deep learning project for 
+This project is a deep learning project for distinguishing SGC (sebaceous gland carcinoma) and SC (squamous cell carcinoma) with histopathological whole slides. 
+
+The CycleGAN is from the repository: https://github.com/aitorzip/PyTorch-CycleGAN.
+
+The other models are from TorchVision.
